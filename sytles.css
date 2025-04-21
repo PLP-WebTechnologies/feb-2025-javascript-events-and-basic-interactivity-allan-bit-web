@@ -1,0 +1,35 @@
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  .error {
+    color: red;
+    display: none;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  /* Color box */
+  .box {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    margin-top: 10px;
+  }
+  
+  /* Toggle text visibility */
+  p {
+    display: block;
+    margin-top: 10px;
+  }
+  
